@@ -33,23 +33,25 @@ I am a passionate Java Full Stack Developer who enjoys building scalable backend
 
 ## 💼 Experience
 
+## 💼 Experience
+
 ### Java Full Stack Developer Intern | JSpiders
+- Developed Java applications using Core Java, JDBC, Hibernate, Spring Framework, and Spring Boot.
+- Built RESTful APIs and integrated MySQL databases.
+- Developed responsive web interfaces using HTML, CSS, and JavaScript.
+- Worked with Maven, Git, and GitHub for version control and project management.
 
-* Developed Java applications using Core Java, JDBC, Hibernate, Spring Framework, and Spring Boot.
-* Built REST APIs and integrated MySQL databases.
-* Developed responsive web interfaces using HTML, CSS, and JavaScript.
-* Worked with Maven, Git, and GitHub for project management and version control.
+### Python Programming Intern | Vault of Codes
+- Developed Python applications and strengthened core programming concepts.
+- Worked on problem-solving, debugging, and object-oriented programming.
+- Gained hands-on experience with file handling, data structures, and Python programming.
+- Successfully completed a 1-month internship focused on practical Python development. 
 
-### Green & AI Skills Program | Edunet Foundation
-
-* Worked on AI-based projects focused on practical applications and sustainability.
-* Applied machine learning concepts to solve real-world problems.
-
-### Python Programming Intern
-
-* Developed Python applications and strengthened programming fundamentals through hands-on projects.
-
----
+### Data & AI Technologies Intern | Learning Path by Third Eye Data
+- Completed an internship on implementing Data & AI Technologies.
+- Learned Artificial Intelligence, Machine Learning, and Data Analytics concepts.
+- Worked on practical AI and data-driven applications.
+- Successfully completed the internship  
 
 ## 🚀 Featured Projects
 

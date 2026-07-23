@@ -41,7 +41,6 @@ I am a passionate Java Full Stack Developer who enjoys building scalable backend
 
 ---
 
-## 💼 Experience
 
 ## 💼 Experience
 

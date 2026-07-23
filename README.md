@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4F46E5;">Sadiya A Hospetkazi</span>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Software+Engineer;Backend+Developer;AI+Enthusiast;Open+to+Work" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=I'm+Sadiya+A+Hospetkazi;Java+Full+Stack+Developer;Software+Engineer;Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-Java Full Stack Developer | Software Engineer | AI Enthusiast
+I am a passionate Java Full Stack Developer who enjoys building scalable backend systems, responsive web applications, and AI-powered solutions.
 </p>
 
 I am a passionate Java Full Stack Developer who enjoys building scalable backend systems, responsive web applications, and AI-powered solutions. I love solving real-world problems through clean code and continuously learning modern technologies.

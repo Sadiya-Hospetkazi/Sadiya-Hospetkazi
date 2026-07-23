@@ -1,6 +1,14 @@
-# Hi 👋, I'm Sadiya A Hospetkazi
+<h1 align="center">Hi 👋</h1>
 
-### Java Full Stack Developer | Software Engineer | AI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=I'm+Sadiya+A+Hospetkazi;Java+Full+Stack+Developer;Software+Engineer;Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Java Full Stack Developer | Software Engineer | AI Enthusiast
+</p>
+
+I am a passionate Java Full Stack Developer who enjoys building scalable backend systems, responsive web applications, and AI-powered solutions. I love solving real-world problems through clean code and continuously learning modern technologies.
 
 I am a passionate Java Full Stack Developer who enjoys building scalable backend systems, responsive web applications, and AI-powered solutions. I love solving real-world problems through clean code and continuously learning modern technologies.
 
